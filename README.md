@@ -43,8 +43,6 @@ The EDA includes:
 The following regression models were implemented:
 
 - Linear Regression
-- Ridge Regression
-- Lasso Regression
 - Random Forest Regressor
 - XGBoost Regressor
 
